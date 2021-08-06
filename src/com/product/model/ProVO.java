@@ -4,6 +4,8 @@ import java.io.Serializable;
 
 public class ProVO implements Serializable{
 
+// 做完拉 爽爽DER
+	
 //週邊商品JavaBean
 	private Integer pro_id;
 	private String pro_name;
